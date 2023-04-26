@@ -1,0 +1,15 @@
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/bin/Debug/net7.0/Classes-Exercise
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/bin/Debug/net7.0/Classes-Exercise.deps.json
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/bin/Debug/net7.0/Classes-Exercise.runtimeconfig.json
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/bin/Debug/net7.0/Classes-Exercise.dll
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/bin/Debug/net7.0/Classes-Exercise.pdb
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.csproj.AssemblyReference.cache
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.AssemblyInfoInputs.cache
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.AssemblyInfo.cs
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.csproj.CoreCompileInputs.cache
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.dll
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/refint/Classes-Exercise.dll
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.pdb
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/Classes-Exercise.genruntimeconfig.cache
+/Users/rakinbrown/repos/Classes-Exercise/Classes-Exercise/obj/Debug/net7.0/ref/Classes-Exercise.dll
